@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TriviaShrimp · Play</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/socket.io/socket.io.js" defer></script>
+  <script src="/common.js" defer></script>
+  <script src="/player.js" defer></script>
+</head>
+<body class="player-page">
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">🦐</span><span class="brand-wordmark">Trivia<span>Shrimp</span></span></div>
+    <span class="connection" data-connection role="status">Connecting</span>
+  </header>
+  <main class="player-wrap">
+    <p id="player-error" class="notice error" role="alert" hidden></p>
+    <section id="join-card" class="panel player-card">
+      <div class="player-mark" aria-hidden="true"><span>🦐</span><i>✦</i><b>✧</b></div>
+      <p class="eyebrow">JOIN THE GAME</p>
+      <h1>You're up<span class="accent">.</span></h1>
+      <p id="join-status" role="status">Connecting to the room…</p>
+      <form id="player-join">
+        <label for="nickname">Nickname</label>
+        <input id="nickname" name="nickname" placeholder="Your name on the scoreboard" required maxlength="20" autocomplete="nickname">
+        <button class="button primary" disabled>Join room <span aria-hidden="true">→</span></button>
+      </form>
+    </section>
+    <section id="player-game" hidden>
+      <div class="player-identity" id="player-identity"></div>
+      <div id="player-stage" class="panel player-card" aria-label="Current round"></div>
+    </section>
+  </main>
+</body>
+</html>

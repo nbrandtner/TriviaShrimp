@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TriviaShrimp · TV</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/socket.io/socket.io.js" defer></script>
+  <script src="/common.js" defer></script>
+  <script src="/tv.js" defer></script>
+</head>
+<body class="tv-page">
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">🦐</span><span class="brand-wordmark">Trivia<span>Shrimp</span></span></div>
+    <div class="top-actions">
+      <span class="connection" data-connection role="status">Connecting</span>
+      <button class="icon-button" id="fullscreen" aria-label="Enter fullscreen" title="Enter fullscreen"><span aria-hidden="true">⛶</span></button>
+    </div>
+  </header>
+  <main class="tv-wrap">
+    <audio id="song-audio" preload="metadata" hidden></audio>
+    <div id="tv-stage"><p class="stage-loading">Waiting for the room…</p></div>
+    <section id="tv-scores" class="tv-scores" aria-label="Scoreboard" hidden>
+      <div class="score-title"><span class="signal"></span> SCOREBOARD</div>
+      <div id="tv-roster" class="tv-roster"></div>
+    </section>
+  </main>
+</body>
+</html>

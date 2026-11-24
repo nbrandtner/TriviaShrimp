@@ -1,0 +1,1058 @@
+{
+  "quiz": [
+    {
+      "id": "quiz-octopus",
+      "prompt": "How many hearts does an octopus have?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctIndex": 2,
+      "explanation": "Two pump blood to the gills. The third sends it to the rest of the body.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "quiz-pacman",
+      "prompt": "What is the first bonus fruit to appear in the original Pac-Man?",
+      "options": ["Cherry", "Banana", "Kiwi", "Pineapple"],
+      "correctIndex": 0,
+      "topic": "Video Games",
+      "explanation": "The cherry appears on the first maze. Later mazes introduce different bonus items."
+    },
+    {
+      "id": "quiz-naruto-kakashi",
+      "topic": "Anime",
+      "prompt": "Who is the original leader of Naruto, Sasuke, and Sakura’s Team 7?",
+      "options": ["Might Guy", "Asuma Sarutobi", "Iruka Umino", "Kakashi Hatake"],
+      "correctIndex": 3,
+      "explanation": "Kakashi supervises the trio after they graduate from the Academy."
+    },
+    {
+      "id": "quiz-mars",
+      "prompt": "Which planet is home to Olympus Mons?",
+      "options": ["Venus", "Mars", "Mercury", "Neptune"],
+      "correctIndex": 1,
+      "explanation": "Olympus Mons is a giant shield volcano on Mars.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "quiz-minecraft-nether",
+      "topic": "Video Games",
+      "prompt": "What block forms the working frame of a standard Nether portal in Minecraft?",
+      "options": ["Blackstone", "Bedrock", "Obsidian", "Deepslate"],
+      "correctIndex": 2,
+      "explanation": "You can leave the four corners out when building the frame."
+    },
+    {
+      "id": "quiz-one-piece-luffy",
+      "topic": "Anime",
+      "prompt": "Who captains the Straw Hat Pirates in One Piece?",
+      "options": ["Sanji", "Monkey D. Luffy", "Usopp", "Roronoa Zoro"],
+      "correctIndex": 1,
+      "explanation": "Luffy brings the crew together while pursuing his dream of becoming Pirate King."
+    },
+    {
+      "id": "quiz-piano",
+      "prompt": "How many keys does a standard modern piano have?",
+      "options": ["72", "80", "88", "96"],
+      "correctIndex": 2,
+      "topic": "General Trivia"
+    },
+    {
+      "id": "quiz-zelda-hero",
+      "topic": "Video Games",
+      "prompt": "Who is the playable hero in The Legend of Zelda: Ocarina of Time?",
+      "options": ["Ganondorf", "Zelda", "Link", "Tingle"],
+      "correctIndex": 2,
+      "explanation": "Link travels through time and appears as both a child and an adult."
+    },
+    {
+      "id": "quiz-dragon-balls",
+      "topic": "Anime",
+      "prompt": "How many Earth Dragon Balls must be gathered to summon Shenron?",
+      "options": ["Seven", "Eight", "Five", "Nine"],
+      "correctIndex": 0,
+      "explanation": "Each of the seven balls has a different number of stars."
+    },
+    {
+      "id": "quiz-canada-capital",
+      "topic": "General Trivia",
+      "prompt": "What is the capital of Canada?",
+      "options": ["Vancouver", "Montreal", "Ottawa", "Toronto"],
+      "correctIndex": 2,
+      "explanation": "Ottawa is in Ontario, on the border with Quebec."
+    },
+    {
+      "id": "quiz-among-us",
+      "topic": "Video Games",
+      "prompt": "What are the secret saboteurs called in Among Us?",
+      "options": ["Impostors", "Renegades", "Intruders", "Spies"],
+      "correctIndex": 0,
+      "explanation": "Impostors try to eliminate the Crewmates before the crew completes its tasks."
+    },
+    {
+      "id": "quiz-death-note-light",
+      "topic": "Anime",
+      "prompt": "Who finds the notebook Ryuk drops in the first episode of Death Note?",
+      "options": ["Soichiro Yagami", "L", "Light Yagami", "Near"],
+      "correctIndex": 2,
+      "explanation": "Light is a high-school student when he finds the notebook."
+    },
+    {
+      "id": "quiz-largest-ocean",
+      "topic": "General Trivia",
+      "prompt": "Which ocean covers the most area?",
+      "options": ["Indian", "Pacific", "Atlantic", "Arctic"],
+      "correctIndex": 1,
+      "explanation": "The Pacific covers more than 30 percent of Earth’s surface."
+    },
+    {
+      "id": "quiz-pokemon-eevee",
+      "topic": "Video Games",
+      "prompt": "Which Pokémon evolves into Vaporeon when given a Water Stone?",
+      "options": ["Poliwag", "Psyduck", "Squirtle", "Eevee"],
+      "correctIndex": 3,
+      "explanation": "Vaporeon is the Water-type evolution of Eevee."
+    },
+    {
+      "id": "quiz-haikyu-sport",
+      "topic": "Anime",
+      "prompt": "What sport is at the center of Haikyu!!?",
+      "options": ["Baseball", "Football", "Volleyball", "Basketball"],
+      "correctIndex": 2,
+      "explanation": "Shoyo Hinata joins Karasuno High’s volleyball club."
+    },
+    {
+      "id": "quiz-nectar",
+      "topic": "General Trivia",
+      "prompt": "What do honeybees collect from flowers to make honey?",
+      "options": ["Petals", "Pollen", "Nectar", "Sap"],
+      "correctIndex": 2,
+      "explanation": "Bees also collect pollen, which is a separate food source for the colony."
+    },
+    {
+      "id": "quiz-sonic-rings",
+      "topic": "Video Games",
+      "prompt": "What does Sonic collect to protect himself from taking a hit in the original Sonic the Hedgehog?",
+      "options": ["Stars", "Gems", "Coins", "Rings"],
+      "correctIndex": 3,
+      "explanation": "Taking a hit usually makes Sonic drop his rings instead of losing a life."
+    },
+    {
+      "id": "quiz-demon-slayer",
+      "topic": "Anime",
+      "prompt": "What is the name of Tanjiro Kamado’s sister in Demon Slayer?",
+      "options": ["Mitsuri", "Shinobu", "Kanao", "Nezuko"],
+      "correctIndex": 3,
+      "explanation": "Tanjiro’s journey begins after his sister Nezuko is turned into a demon."
+    },
+    {
+      "id": "quiz-rugby-shape",
+      "topic": "General Trivia",
+      "prompt": "Which sport uses an oval ball and awards points for a try?",
+      "options": ["Handball", "Rugby", "Cricket", "Field hockey"],
+      "correctIndex": 1,
+      "explanation": "A try is scored by grounding the ball in the opponent’s in-goal area."
+    },
+    {
+      "id": "quiz-mario-brother",
+      "topic": "Video Games",
+      "prompt": "What is the name of Mario’s brother?",
+      "options": ["Luigi", "Yoshi", "Wario", "Toad"],
+      "correctIndex": 0,
+      "explanation": "Luigi is usually dressed in green."
+    },
+    {
+      "id": "quiz-spy-family",
+      "topic": "Anime",
+      "prompt": "What power does Anya have in Spy × Family?",
+      "options": ["Time travel", "Invisibility", "Shape-shifting", "Mind reading"],
+      "correctIndex": 3,
+      "explanation": "Anya can hear the thoughts of people around her."
+    },
+    {
+      "id": "quiz-guacamole",
+      "topic": "General Trivia",
+      "prompt": "What is the main ingredient in guacamole?",
+      "options": ["Avocado", "Cucumber", "Tomatillo", "Green pepper"],
+      "correctIndex": 0,
+      "explanation": "Guacamole is made by mashing avocado and seasoning it."
+    },
+    {
+      "id": "quiz-tetris-shape",
+      "topic": "Video Games",
+      "prompt": "How many squares make up each standard Tetris piece?",
+      "options": ["Six", "Three", "Four", "Five"],
+      "correctIndex": 2,
+      "explanation": "The pieces are based on shapes called tetrominoes."
+    },
+    {
+      "id": "quiz-one-punch",
+      "topic": "Anime",
+      "prompt": "What is the name of the title hero in One-Punch Man?",
+      "options": ["King", "Saitama", "Genos", "Bang"],
+      "correctIndex": 1,
+      "explanation": "Saitama is also known by his Hero Association name, Caped Baldy."
+    },
+    {
+      "id": "quiz-starry-night",
+      "topic": "General Trivia",
+      "prompt": "Who painted The Starry Night in 1889?",
+      "options": ["Edvard Munch", "Vincent van Gogh", "Claude Monet", "Paul Cézanne"],
+      "correctIndex": 1,
+      "explanation": "Van Gogh painted it while staying in Saint-Rémy, France."
+    },
+    {
+      "id": "quiz-halo-ai",
+      "topic": "Video Games",
+      "prompt": "Who is Master Chief’s AI companion in Halo: Combat Evolved?",
+      "options": ["Cortana", "GLaDOS", "EDI", "343 Guilty Spark"],
+      "correctIndex": 0,
+      "explanation": "Cortana escapes the Pillar of Autumn with Master Chief."
+    },
+    {
+      "id": "quiz-fullmetal",
+      "topic": "Anime",
+      "prompt": "Which Elric brother’s soul is bound to a suit of armor?",
+      "options": ["Both brothers", "Edward", "Alphonse", "Neither brother"],
+      "correctIndex": 2,
+      "explanation": "Edward loses an arm and a leg, while Alphonse loses his body."
+    },
+    {
+      "id": "quiz-machu-picchu",
+      "topic": "General Trivia",
+      "prompt": "Which civilization built Machu Picchu?",
+      "options": ["Aztec", "Olmec", "Maya", "Inca"],
+      "correctIndex": 3,
+      "explanation": "The site lies high in the Peruvian Andes."
+    },
+    {
+      "id": "quiz-god-of-war",
+      "topic": "Video Games",
+      "prompt": "What is the name of Kratos’s son in God of War (2018)?",
+      "options": ["Orion", "Atreus", "Hermes", "Baldur"],
+      "correctIndex": 1,
+      "explanation": "Kratos and Atreus set out together to scatter his mother’s ashes."
+    },
+    {
+      "id": "quiz-bleach-rukia",
+      "topic": "Anime",
+      "prompt": "Who gives Ichigo Soul Reaper powers at the start of Bleach?",
+      "options": ["Rukia Kuchiki", "Rangiku Matsumoto", "Orihime Inoue", "Yoruichi Shihōin"],
+      "correctIndex": 0,
+      "explanation": "Rukia transfers her powers while protecting Ichigo’s family from a Hollow."
+    },
+    {
+      "id": "quiz-sodium",
+      "topic": "General Trivia",
+      "prompt": "Which element has the chemical symbol Na?",
+      "options": ["Nickel", "Nitrogen", "Sodium", "Neon"],
+      "correctIndex": 2,
+      "explanation": "Na comes from natrium, the Latin name for sodium."
+    },
+    {
+      "id": "quiz-stardew-town",
+      "topic": "Video Games",
+      "prompt": "What town is home to Pierre’s shop and the Stardrop Saloon in Stardew Valley?",
+      "options": ["Pelican Town", "Pallet Town", "Mineral Town", "Delfino Plaza"],
+      "correctIndex": 0,
+      "explanation": "Pelican Town includes Pierre’s shop, the saloon, and the community center."
+    },
+    {
+      "id": "quiz-jujutsu",
+      "topic": "Anime",
+      "prompt": "Whose cursed finger does Yuji swallow at the start of Jujutsu Kaisen?",
+      "options": ["Suguru Geto", "Satoru Gojo", "Mahito", "Ryomen Sukuna"],
+      "correctIndex": 3,
+      "explanation": "The finger is one of the cursed objects that contain Sukuna’s power."
+    },
+    {
+      "id": "quiz-badminton",
+      "topic": "General Trivia",
+      "prompt": "What is the object hit over the net in badminton called?",
+      "options": ["Boule", "Pelota", "Puck", "Shuttlecock"],
+      "correctIndex": 3,
+      "explanation": "A shuttlecock has a rounded base and a flared skirt."
+    },
+    {
+      "id": "quiz-animal-crossing",
+      "topic": "Video Games",
+      "prompt": "Which character runs the island getaway package in Animal Crossing: New Horizons?",
+      "options": ["Blathers", "K.K. Slider", "Gulliver", "Tom Nook"],
+      "correctIndex": 3,
+      "explanation": "Tom Nook runs Nook Inc., the company behind the island getaway."
+    },
+    {
+      "id": "quiz-frieren",
+      "topic": "Anime",
+      "prompt": "What kind of being is the mage Frieren?",
+      "options": ["Demon", "Human", "Dwarf", "Elf"],
+      "correctIndex": 3,
+      "explanation": "Frieren’s long life shapes how she experiences time and friendship."
+    },
+    {
+      "id": "quiz-suez",
+      "topic": "General Trivia",
+      "prompt": "Which two seas does the Suez Canal connect?",
+      "options": ["Mediterranean and Red", "Adriatic and Ionian", "Black and Caspian", "Baltic and North"],
+      "correctIndex": 0,
+      "explanation": "The canal runs through Egypt."
+    },
+    {
+      "id": "quiz-celeste",
+      "topic": "Video Games",
+      "prompt": "What is the name of the climber you play as in Celeste?",
+      "options": ["Amicia", "Chell", "Madeline", "Mae"],
+      "correctIndex": 2,
+      "explanation": "Madeline sets out to climb Celeste Mountain."
+    },
+    {
+      "id": "quiz-chainsaw-man",
+      "topic": "Anime",
+      "prompt": "What is the name of Denji’s chainsaw devil companion?",
+      "options": ["Power", "Kon", "Beam", "Pochita"],
+      "correctIndex": 3,
+      "explanation": "Pochita looks like a little orange dog with a chainsaw blade."
+    },
+    {
+      "id": "quiz-baking",
+      "topic": "General Trivia",
+      "prompt": "What gas forms the bubbles that make yeast bread rise?",
+      "options": ["Carbon dioxide", "Hydrogen", "Oxygen", "Nitrogen"],
+      "correctIndex": 0,
+      "explanation": "Yeast produces carbon dioxide as it ferments sugars in the dough."
+    },
+    {
+      "id": "quiz-horizon",
+      "topic": "Video Games",
+      "prompt": "Who is the main playable character in Horizon Zero Dawn?",
+      "options": ["Lara Croft", "Jesse Faden", "Ellie", "Aloy"],
+      "correctIndex": 3,
+      "explanation": "Aloy hunts machine creatures and investigates their origins."
+    },
+    {
+      "id": "quiz-my-hero",
+      "topic": "Anime",
+      "prompt": "What is the name of the Quirk All Might passes on to Izuku?",
+      "options": ["Erasure", "One For All", "All For One", "Explosion"],
+      "correctIndex": 1,
+      "explanation": "The power is passed from one holder to the next."
+    },
+    {
+      "id": "quiz-abbey-road",
+      "topic": "General Trivia",
+      "prompt": "Which Beatles album cover shows the band on a zebra crossing?",
+      "options": ["Abbey Road", "Revolver", "Rubber Soul", "Let It Be"],
+      "correctIndex": 0,
+      "explanation": "The crossing is near the recording studios in London."
+    },
+    {
+      "id": "quiz-street-fighter",
+      "topic": "Video Games",
+      "prompt": "In Street Fighter II, which martial artist is Ken Masters’s longtime rival?",
+      "options": ["Vega", "Ryu", "Ken", "Guile"],
+      "correctIndex": 1,
+      "explanation": "Ken, Ryu’s rival, wears a red gi."
+    },
+    {
+      "id": "quiz-evangelion",
+      "topic": "Anime",
+      "prompt": "Which Evangelion unit does Shinji usually pilot in Neon Genesis Evangelion?",
+      "options": ["Unit-02", "Unit-00", "Unit-03", "Unit-01"],
+      "correctIndex": 3,
+      "explanation": "Rei pilots Unit-00 and Asuka pilots Unit-02."
+    },
+    {
+      "id": "quiz-jupiter-moon",
+      "topic": "General Trivia",
+      "prompt": "Which of these moons orbits Jupiter?",
+      "options": ["Europa", "Triton", "Titan", "Phobos"],
+      "correctIndex": 0,
+      "explanation": "Titan orbits Saturn, Triton orbits Neptune, and Phobos orbits Mars."
+    },
+    {
+      "id": "quiz-skyrim",
+      "topic": "Video Games",
+      "prompt": "What three words make up the Unrelenting Force shout in Skyrim?",
+      "options": ["Fo Krah Diin", "Yol Toor Shul", "Fus Ro Dah", "Wuld Nah Kest"],
+      "correctIndex": 2,
+      "explanation": "Fus, Ro, and Dah mean Force, Balance, and Push."
+    },
+    {
+      "id": "quiz-bocchi",
+      "topic": "Anime",
+      "prompt": "Which instrument does Hitori Gotoh play in Bocchi the Rock!?",
+      "options": ["Drums", "Bass", "Keyboard", "Guitar"],
+      "correctIndex": 3,
+      "explanation": "Hitori plays lead guitar for Kessoku Band."
+    },
+    {
+      "id": "quiz-petra",
+      "topic": "General Trivia",
+      "prompt": "In which modern country are the ruins of Petra?",
+      "options": ["Oman", "Jordan", "Egypt", "Lebanon"],
+      "correctIndex": 1,
+      "explanation": "Petra was a major city of the Nabataean kingdom."
+    },
+    {
+      "id": "quiz-hades",
+      "topic": "Video Games",
+      "prompt": "In the original Hades, which prince tries to escape the Underworld?",
+      "options": ["Orpheus", "Thanatos", "Zagreus", "Patroclus"],
+      "correctIndex": 2,
+      "explanation": "Zagreus is the playable character. His sister Melinoë leads Hades II."
+    },
+    {
+      "id": "quiz-mob-psycho",
+      "topic": "Anime",
+      "prompt": "What is the surname of Mob’s self-proclaimed psychic mentor in Mob Psycho 100?",
+      "options": ["Reigen", "Suzuki", "Hanazawa", "Kageyama"],
+      "correctIndex": 0,
+      "explanation": "Arataka Reigen runs a business called Spirits and Such Consultation Office."
+    },
+    {
+      "id": "quiz-bromine",
+      "topic": "General Trivia",
+      "prompt": "Which of these elements is a liquid at 20 °C?",
+      "options": ["Sulfur", "Chlorine", "Iodine", "Bromine"],
+      "correctIndex": 3,
+      "explanation": "Bromine is a reddish-brown liquid at room temperature."
+    },
+    {
+      "id": "quiz-kirby",
+      "topic": "Video Games",
+      "prompt": "In Kirby’s Dream Land, who steals the people’s food at the start of the game?",
+      "options": ["Marx", "King Dedede", "Magolor", "Meta Knight"],
+      "correctIndex": 1,
+      "explanation": "Kirby sets out for Mount Dedede to recover the stolen food."
+    },
+    {
+      "id": "quiz-code-geass",
+      "topic": "Anime",
+      "prompt": "What alias does Lelouch use as the masked leader in Code Geass?",
+      "options": ["Zero", "The Major", "Vicious", "Char"],
+      "correctIndex": 0,
+      "explanation": "The name lets him lead the rebellion without revealing his identity."
+    },
+    {
+      "id": "quiz-esperanto",
+      "topic": "General Trivia",
+      "prompt": "Who introduced Esperanto in 1887?",
+      "options": ["L. L. Zamenhof", "Louis Braille", "Noah Webster", "J. R. R. Tolkien"],
+      "correctIndex": 0,
+      "explanation": "Zamenhof published it under the pen name Doktoro Esperanto."
+    },
+    {
+      "id": "quiz-fzero",
+      "topic": "Video Games",
+      "prompt": "What is the name of Captain Falcon’s machine in F-Zero?",
+      "options": ["Golden Fox", "Fire Stingray", "Blue Falcon", "Wild Goose"],
+      "correctIndex": 2,
+      "explanation": "The other three machines are driven by Samurai Goroh, Pico, and Dr. Stewart."
+    },
+    {
+      "id": "quiz-jojo",
+      "topic": "Anime",
+      "prompt": "What is Jotaro Kujo’s Stand called in Stardust Crusaders?",
+      "options": ["Silver Chariot", "Hermit Purple", "Star Platinum", "The World"],
+      "correctIndex": 2,
+      "explanation": "Silver Chariot belongs to Polnareff and Hermit Purple belongs to Joseph."
+    },
+    {
+      "id": "quiz-double-helix",
+      "topic": "General Trivia",
+      "prompt": "Which base pairs with adenine in ordinary double-stranded DNA?",
+      "options": ["Cytosine", "Thymine", "Uracil", "Guanine"],
+      "correctIndex": 1,
+      "explanation": "In DNA, A pairs with T and C pairs with G."
+    },
+    {
+      "id": "quiz-breath-shrines",
+      "topic": "Video Games",
+      "prompt": "How many shrines are in the base game of The Legend of Zelda: Breath of the Wild?",
+      "options": ["136", "120", "96", "100"],
+      "correctIndex": 1,
+      "explanation": "Nintendo lists 120 shrines before the Expansion Pass content."
+    },
+    {
+      "id": "quiz-kaguya",
+      "topic": "Anime",
+      "prompt": "At which academy is Kaguya-sama: Love Is War set?",
+      "options": ["Shuchiin Academy", "Eden College", "U.A. High School", "Hyakkaou Private Academy"],
+      "correctIndex": 0,
+      "explanation": "Kaguya Shinomiya and Miyuki Shirogane serve on the student council."
+    },
+    {
+      "id": "quiz-saffron",
+      "topic": "General Trivia",
+      "prompt": "Which part of the saffron crocus is harvested to make the spice?",
+      "options": ["Seeds", "Petals", "Stigmas", "Roots"],
+      "correctIndex": 2,
+      "explanation": "The red threads used in cooking are the flower’s dried stigmas."
+    },
+    {
+      "id": "quiz-mario64-cap",
+      "topic": "Video Games",
+      "prompt": "Which cap lets Mario pass through some walls in Super Mario 64?",
+      "options": ["Metal Cap", "Power Cap", "Wing Cap", "Vanish Cap"],
+      "correctIndex": 3,
+      "explanation": "The Vanish Cap lets Mario slip through barriers such as metal grates."
+    },
+    {
+      "id": "quiz-violet",
+      "topic": "Anime",
+      "prompt": "What job title does Violet take in Violet Evergarden when she starts writing letters for clients?",
+      "options": ["Pro Hero", "Auto Memory Doll", "Soul Reaper", "State Alchemist"],
+      "correctIndex": 1,
+      "explanation": "Auto Memory Dolls put their clients’ thoughts and feelings into letters."
+    },
+    {
+      "id": "quiz-moon-mission",
+      "topic": "General Trivia",
+      "prompt": "Which Apollo mission was the first to orbit the Moon?",
+      "options": ["Apollo 10", "Apollo 8", "Apollo 7", "Apollo 11"],
+      "correctIndex": 1,
+      "explanation": "Apollo 8 orbited the Moon in 1968. Apollo 11 made the first crewed landing in 1969."
+    },
+    {
+      "id": "quiz-undertale",
+      "topic": "Video Games",
+      "prompt": "Who created Undertale and composed its soundtrack?",
+      "options": ["Toby Fox", "Daisuke Amaya", "Lucas Pope", "Eric Barone"],
+      "correctIndex": 0,
+      "explanation": "Toby Fox developed the game and wrote its music."
+    },
+    {
+      "id": "quiz-trigun",
+      "topic": "Anime",
+      "prompt": "In the 1998 anime Trigun, what nickname is given to Vash?",
+      "options": ["The Fullmetal Alchemist", "The Black Swordsman", "The Humanoid Typhoon", "The Flame Hashira"],
+      "correctIndex": 2,
+      "explanation": "Vash’s reputation follows him from town to town."
+    },
+    {
+      "id": "quiz-rosetta-stone",
+      "topic": "General Trivia",
+      "prompt": "Which language appears on the Rosetta Stone alongside two Egyptian scripts?",
+      "options": ["Aramaic", "Ancient Greek", "Hebrew", "Latin"],
+      "correctIndex": 1,
+      "explanation": "The Egyptian text appears in hieroglyphic and Demotic scripts."
+    },
+    {
+      "id": "quiz-assassins-creed",
+      "topic": "Video Games",
+      "prompt": "Which Assassin’s Creed game first introduced Ezio Auditore?",
+      "options": ["Assassin’s Creed: Revelations", "Assassin’s Creed II", "Assassin’s Creed III", "Assassin’s Creed: Brotherhood"],
+      "correctIndex": 1,
+      "explanation": "Brotherhood and Revelations continued Ezio’s story."
+    },
+    {
+      "id": "quiz-blue-lock",
+      "topic": "Anime",
+      "prompt": "Who is the main protagonist of the football anime Blue Lock?",
+      "options": ["Rin Itoshi", "Meguru Bachira", "Seishiro Nagi", "Yoichi Isagi"],
+      "correctIndex": 3,
+      "explanation": "The other three are also players in the Blue Lock program."
+    },
+    {
+      "id": "quiz-kangaroo-term",
+      "topic": "General Trivia",
+      "prompt": "What is a baby kangaroo called?",
+      "options": ["Leveret", "Cub", "Kit", "Joey"],
+      "correctIndex": 3,
+      "explanation": "The term joey is also used for the young of other marsupials."
+    },
+    {
+      "id": "quiz-monkey-island",
+      "topic": "Video Games",
+      "prompt": "What is the name of the would-be pirate in The Secret of Monkey Island?",
+      "options": ["Murray", "Guybrush Threepwood", "Stan", "LeChuck"],
+      "correctIndex": 1,
+      "explanation": "Guybrush has to pass three trials to become a pirate."
+    },
+    {
+      "id": "quiz-samurai-champloo",
+      "topic": "Anime",
+      "prompt": "In Samurai Champloo, Fuu searches for a samurai who smells like what?",
+      "options": ["Sunflowers", "Pine", "Jasmine", "Cherry blossoms"],
+      "correctIndex": 0,
+      "explanation": "She enlists Mugen and Jin to help her find him."
+    },
+    {
+      "id": "quiz-maple-leaf",
+      "topic": "General Trivia",
+      "prompt": "Which country's flag features a leaf like this?",
+      "options": ["Austria", "Canada", "Switzerland", "Poland"],
+      "correctIndex": 1,
+      "images": [{ "file": "maple-leaf.png", "alt": "A stylised red maple leaf" }]
+    }
+  ],
+  "songQuiz": [
+    {
+      "id": "song-01",
+      "label": "Familiar melody #1",
+      "prompt": "Name the tune.",
+      "answer": "Twinkle, Twinkle, Little Star",
+      "explanation": "Accept the Alphabet Song or Baa, Baa, Black Sheep too. They share the melody.",
+      "audio": { "file": "clip-01.mp3", "start": 0.4, "duration": 5.8 }
+    },
+    {
+      "id": "song-02",
+      "label": "Familiar melody #2",
+      "prompt": "Name the tune.",
+      "answer": "Frère Jacques",
+      "explanation": "Also accept Brother John, Bruder Jakob, or another local name for the tune.",
+      "audio": { "file": "clip-02.mp3", "start": 0.4, "duration": 6 }
+    }
+  ],
+  "numberGuess": [
+    {
+      "id": "guess-marathon",
+      "topic": "General Trivia",
+      "prompt": "How long is a full marathon in kilometres?",
+      "answer": 42.195,
+      "unit": "km",
+      "explanation": "The official distance is 42 km and 195 metres."
+    },
+    {
+      "id": "guess-go",
+      "topic": "General Trivia",
+      "prompt": "How many intersections are on a standard full-size Go board?",
+      "answer": 361,
+      "explanation": "The board has 19 horizontal and 19 vertical lines."
+    }
+  ],
+  "pictureBuzz": [
+    {
+      "id": "picture-death-note",
+      "topic": "Anime",
+      "prompt": "Which anime do these two pictures hint at?",
+      "answer": "Death Note",
+      "explanation": "Ryuk loves apples, and the notebook is the Death Note.",
+      "images": [
+        { "file": "apple.png", "alt": "A red apple" },
+        { "file": "notebook.png", "alt": "A black notebook" }
+      ]
+    }
+  ],
+  "higherLower": [
+    {
+      "id": "higher-mountains",
+      "prompt": "Is the second mountain higher or lower?",
+      "knownItem": "Mount Kilimanjaro",
+      "knownValue": 5895,
+      "secondItem": "Mont Blanc",
+      "secondValue": 4806,
+      "unit": "m above sea level",
+      "explanation": "Mont Blanc's snow-covered summit changes height. This is the rounded 2023 survey value.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "higher-valve-years",
+      "topic": "Video Games",
+      "prompt": "Did the second Valve game first release earlier or later?",
+      "knownItem": "Portal",
+      "knownValue": 2007,
+      "secondItem": "Half-Life 2",
+      "secondValue": 2004,
+      "unit": "year",
+      "explanation": "Portal was originally released in The Orange Box."
+    },
+    {
+      "id": "higher-ghibli-years",
+      "topic": "Anime",
+      "prompt": "Did the second film open in Japan earlier or later?",
+      "knownItem": "Howl’s Moving Castle",
+      "knownValue": 2004,
+      "secondItem": "Princess Mononoke",
+      "secondValue": 1997,
+      "unit": "year"
+    },
+    {
+      "id": "higher-orbits",
+      "prompt": "Does the second planet take more or fewer days to orbit the Sun?",
+      "knownItem": "Mars",
+      "knownValue": 687,
+      "secondItem": "Jupiter",
+      "secondValue": 4333,
+      "unit": "Earth days",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "higher-indie-years",
+      "topic": "Video Games",
+      "prompt": "Did the second game first release on PC earlier or later?",
+      "knownItem": "Terraria",
+      "knownValue": 2011,
+      "secondItem": "Stardew Valley",
+      "secondValue": 2016,
+      "unit": "year"
+    },
+    {
+      "id": "higher-totoro-ponyo",
+      "topic": "Anime",
+      "prompt": "Did Ponyo open in Japan before or after My Neighbor Totoro?",
+      "knownItem": "My Neighbor Totoro",
+      "knownValue": 1988,
+      "secondItem": "Ponyo",
+      "secondValue": 2008,
+      "unit": "year"
+    },
+    {
+      "id": "higher-freezing",
+      "prompt": "Does the second liquid freeze at a higher or lower temperature?",
+      "knownItem": "Pure water",
+      "knownValue": 0,
+      "secondItem": "Pure ethanol",
+      "secondValue": -114.1,
+      "unit": "°C",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "higher-console-years",
+      "topic": "Video Games",
+      "prompt": "Did the second console first launch earlier or later?",
+      "knownItem": "PlayStation 2",
+      "knownValue": 2000,
+      "secondItem": "Nintendo Wii",
+      "secondValue": 2006,
+      "unit": "year"
+    },
+    {
+      "id": "higher-ghibli-runtimes",
+      "topic": "Anime",
+      "prompt": "Is the second film shorter or longer by Studio Ghibli’s listed runtime?",
+      "knownItem": "Castle in the Sky",
+      "knownValue": 124,
+      "secondItem": "Kiki’s Delivery Service",
+      "secondValue": 102,
+      "unit": "minutes",
+      "explanation": "These are the approximate runtimes on Studio Ghibli’s Japanese site."
+    },
+    {
+      "id": "higher-landmarks",
+      "topic": "General Trivia",
+      "prompt": "Is the second landmark shorter or taller?",
+      "knownItem": "Eiffel Tower with its 2022 antenna",
+      "knownValue": 330,
+      "secondItem": "Washington Monument",
+      "secondValue": 169,
+      "unit": "metres",
+      "explanation": "The figures are rounded to the nearest metre."
+    },
+    {
+      "id": "higher-kart-courses",
+      "topic": "Video Games",
+      "prompt": "Does the second game have more or fewer race courses?",
+      "knownItem": "Mario Kart 7",
+      "knownValue": 32,
+      "secondItem": "Mario Kart 8 Deluxe without Booster Course Pass",
+      "secondValue": 48,
+      "unit": "race courses",
+      "explanation": "The 48 count excludes battle arenas and the paid Booster Course Pass."
+    },
+    {
+      "id": "higher-anime-episodes",
+      "topic": "Anime",
+      "prompt": "Does the second anime have more or fewer episodes?",
+      "knownItem": "Death Note TV anime",
+      "knownValue": 37,
+      "secondItem": "Cyberpunk: Edgerunners, season 1",
+      "secondValue": 10,
+      "unit": "episodes",
+      "explanation": "This counts the original 10-episode Edgerunners season."
+    },
+    {
+      "id": "higher-atomic-numbers",
+      "topic": "General Trivia",
+      "prompt": "Does the second element have a higher or lower atomic number?",
+      "knownItem": "Silver (Ag)",
+      "knownValue": 47,
+      "secondItem": "Gold (Au)",
+      "secondValue": 79,
+      "unit": "protons",
+      "explanation": "An element’s atomic number is the number of protons in its nucleus."
+    },
+    {
+      "id": "higher-pokedex",
+      "topic": "Video Games",
+      "prompt": "Is the second Pokémon’s National Pokédex number higher or lower?",
+      "knownItem": "Pikachu",
+      "knownValue": 25,
+      "secondItem": "Bulbasaur",
+      "secondValue": 1,
+      "unit": "National Pokédex number"
+    },
+    {
+      "id": "higher-shonen-premieres",
+      "topic": "Anime",
+      "prompt": "Did the second TV anime premiere in Japan earlier or later?",
+      "knownItem": "Demon Slayer: Kimetsu no Yaiba",
+      "knownValue": 2019,
+      "secondItem": "Jujutsu Kaisen",
+      "secondValue": 2020,
+      "unit": "year"
+    },
+    {
+      "id": "higher-olympic-years",
+      "topic": "General Trivia",
+      "prompt": "Were the first Winter Olympics held earlier or later?",
+      "knownItem": "First modern Summer Olympics (Athens)",
+      "knownValue": 1896,
+      "secondItem": "First Winter Olympics (Chamonix)",
+      "secondValue": 1924,
+      "unit": "year",
+      "explanation": "Athens hosted the first modern Games, and Chamonix hosted the first Winter Games."
+    },
+    {
+      "id": "higher-game-days",
+      "topic": "Video Games",
+      "prompt": "Does the second game give you more or fewer in-game days?",
+      "knownItem": "Pikmin (Olimar’s oxygen supply)",
+      "knownValue": 30,
+      "secondItem": "Majora’s Mask (before the moon falls)",
+      "secondValue": 3,
+      "unit": "in-game days",
+      "explanation": "Link can reset the three-day cycle with the Song of Time."
+    },
+    {
+      "id": "higher-anime-premieres",
+      "topic": "Anime",
+      "prompt": "Did Frieren premiere in Japan before or after Spy × Family?",
+      "knownItem": "Spy × Family",
+      "knownValue": 2022,
+      "secondItem": "Frieren: Beyond Journey’s End",
+      "secondValue": 2023,
+      "unit": "year"
+    },
+    {
+      "id": "higher-dice",
+      "topic": "General Trivia",
+      "prompt": "Does the second die in the picture have more or fewer faces?",
+      "knownItem": "Die on the left",
+      "knownValue": 6,
+      "secondItem": "Die on the right",
+      "secondValue": 20,
+      "unit": "faces",
+      "images": [{ "file": "polyhedral-dice.png", "alt": "A cube-shaped die beside a die with triangular faces" }]
+    }
+  ],
+  "jeopardy": {
+    "values": [
+      100,
+      200,
+      300,
+      400,
+      500
+    ],
+    "categories": [
+      {
+        "name": "Around the World",
+        "clues": [
+          {
+            "id": "world-100",
+            "value": 100,
+            "prompt": "This city is home to the Colosseum.",
+            "answer": "Rome"
+          },
+          {
+            "id": "world-200",
+            "value": 200,
+            "prompt": "Vienna, Bratislava, Budapest, and Belgrade all sit on this river.",
+            "answer": "The Danube"
+          },
+          {
+            "id": "world-300",
+            "value": 300,
+            "prompt": "This island country lies just off the southeastern coast of India.",
+            "answer": "Sri Lanka"
+          },
+          {
+            "id": "world-400",
+            "value": 400,
+            "prompt": "The ruins of Chichén Itzá are on the Yucatán Peninsula in this country.",
+            "answer": "Mexico"
+          },
+          {
+            "id": "world-500",
+            "value": 500,
+            "prompt": "This African kingdom is entirely surrounded by South Africa.",
+            "answer": "Lesotho"
+          }
+        ]
+      },
+      {
+        "name": "Science & Nature",
+        "clues": [
+          {
+            "id": "science-100",
+            "value": 100,
+            "prompt": "This gas makes up about 78 percent of Earth’s dry atmosphere.",
+            "answer": "Nitrogen"
+          },
+          {
+            "id": "science-200",
+            "value": 200,
+            "prompt": "This Australian mammal has a duck-like bill and lays eggs.",
+            "answer": "Platypus"
+          },
+          {
+            "id": "science-300",
+            "value": 300,
+            "prompt": "The chemical symbol W stands for this metal.",
+            "answer": "Tungsten (wolfram)"
+          },
+          {
+            "id": "science-400",
+            "value": 400,
+            "prompt": "This largest moon of Saturn has lakes and seas of liquid hydrocarbons.",
+            "answer": "Titan"
+          },
+          {
+            "id": "science-500",
+            "value": 500,
+            "prompt": "This antiparticle has the same mass as an electron and a positive charge.",
+            "answer": "Positron (antielectron)"
+          }
+        ]
+      },
+      {
+        "name": "Game Worlds",
+        "clues": [
+          {
+            "id": "game-world-100",
+            "value": 100,
+            "prompt": "You battle the Ender Dragon in this Minecraft dimension.",
+            "answer": "The End"
+          },
+          {
+            "id": "game-world-200",
+            "value": 200,
+            "prompt": "Leon and Claire face a zombie outbreak in this city in Resident Evil 2.",
+            "answer": "Raccoon City"
+          },
+          {
+            "id": "game-world-300",
+            "value": 300,
+            "prompt": "The Portal games take place in test facilities run by this fictional company.",
+            "answer": "Aperture Science"
+          },
+          {
+            "id": "game-world-400",
+            "value": 400,
+            "prompt": "This fallen insect kingdom is the main setting of Hollow Knight.",
+            "answer": "Hallownest"
+          },
+          {
+            "id": "game-world-500",
+            "value": 500,
+            "prompt": "The Hunter arrives in this city at the start of Bloodborne.",
+            "answer": "Yharnam"
+          }
+        ]
+      },
+      {
+        "name": "Game Icons",
+        "clues": [
+          {
+            "id": "game-icon-100",
+            "value": 100,
+            "prompt": "This bounty hunter wears the Power Suit in Metroid.",
+            "answer": "Samus Aran"
+          },
+          {
+            "id": "game-icon-200",
+            "value": 200,
+            "prompt": "This vacuum series lets Luigi capture ghosts in the Luigi’s Mansion games.",
+            "answer": "Poltergust (accept any Poltergust model)"
+          },
+          {
+            "id": "game-icon-300",
+            "value": 300,
+            "prompt": "This is the name of the orange marsupial who fights Dr. Neo Cortex.",
+            "answer": "Crash Bandicoot"
+          },
+          {
+            "id": "game-icon-400",
+            "value": 400,
+            "prompt": "In Final Fantasy VII, Cloud was a mercenary hired by this group opposing Shinra.",
+            "answer": "Avalanche"
+          },
+          {
+            "id": "game-icon-500",
+            "value": 500,
+            "prompt": "This scientist is a recurring villain in the original Mega Man series.",
+            "answer": "Dr. Wily (Albert Wily)"
+          }
+        ]
+      },
+      {
+        "name": "Anime Characters",
+        "clues": [
+          {
+            "id": "anime-character-100",
+            "value": 100,
+            "prompt": "This bounty hunter travels with Jet Black in Cowboy Bebop.",
+            "answer": "Spike Spiegel"
+          },
+          {
+            "id": "anime-character-200",
+            "value": 200,
+            "prompt": "In Sailor Moon, this black cat with a crescent mark guides Usagi.",
+            "answer": "Luna"
+          },
+          {
+            "id": "anime-character-300",
+            "value": 300,
+            "prompt": "In One Piece, this Straw Hat Pirate is the crew’s navigator.",
+            "answer": "Nami"
+          },
+          {
+            "id": "anime-character-400",
+            "value": 400,
+            "prompt": "In Hunter × Hunter, Gon befriends this boy from the Zoldyck family of assassins.",
+            "answer": "Killua Zoldyck"
+          },
+          {
+            "id": "anime-character-500",
+            "value": 500,
+            "prompt": "In Fruits Basket (2019), this girl discovers the Soma family’s Zodiac curse.",
+            "answer": "Tohru Honda"
+          }
+        ]
+      },
+      {
+        "name": "Anime Films",
+        "clues": [
+          {
+            "id": "anime-film-100",
+            "value": 100,
+            "prompt": "This Studio Ghibli film follows Chihiro into a spirit world with a bathhouse.",
+            "answer": "Spirited Away"
+          },
+          {
+            "id": "anime-film-200",
+            "value": 200,
+            "prompt": "This is the name of the black cat who travels with Kiki in Kiki’s Delivery Service.",
+            "answer": "Jiji"
+          },
+          {
+            "id": "anime-film-300",
+            "value": 300,
+            "prompt": "In Your Name., this is the given name of the girl who swaps bodies with Taki.",
+            "answer": "Mitsuha (Mitsuha Miyamizu)"
+          },
+          {
+            "id": "anime-film-400",
+            "value": 400,
+            "prompt": "This Studio Ghibli film follows a pilot whose face has been transformed into a pig’s.",
+            "answer": "Porco Rosso"
+          },
+          {
+            "id": "anime-film-500",
+            "value": 500,
+            "prompt": "This director made Grave of the Fireflies and The Tale of the Princess Kaguya.",
+            "answer": "Isao Takahata"
+          }
+        ]
+      }
+    ]
+  }
+}

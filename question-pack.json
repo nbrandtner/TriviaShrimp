@@ -1,0 +1,1186 @@
+{
+  "quiz": [
+    {
+      "id": "quiz-streetpass",
+      "topic": "Nintendo Games",
+      "prompt": "What 3DS feature let you collect other players’ Miis just by walking past them?",
+      "options": ["Download Play", "PictoChat", "StreetPass", "SpotPass"],
+      "correctIndex": 2,
+      "explanation": "StreetPass exchanged compatible data with nearby Nintendo 3DS systems."
+    },
+    {
+      "id": "quiz-borders",
+      "topic": "General Trivia",
+      "prompt": "Which of these pairs of countries share a land border?",
+      "options": ["China and South Korea", "Russia and Sweden", "Germany and Italy", "France and Brazil"],
+      "correctIndex": 3,
+      "explanation": "French Guiana is a French overseas territory in South America."
+    },
+    {
+      "id": "quiz-paper-mario",
+      "topic": "Nintendo Games",
+      "prompt": "In Paper Mario: The Thousand-Year Door, what are you collecting to open the door?",
+      "options": ["Shine Sprites", "Star Spirits", "Power Moons", "Crystal Stars"],
+      "correctIndex": 3,
+      "explanation": "Star Spirits are from the original Paper Mario."
+    },
+    {
+      "id": "quiz-sponge",
+      "topic": "Minecraft",
+      "prompt": "Which mob drops a wet sponge when defeated?",
+      "options": ["Evoker", "Guardian", "Drowned", "Elder Guardian"],
+      "correctIndex": 3,
+      "explanation": "You can also find sponge rooms in some ocean monuments."
+    },
+    {
+      "id": "quiz-bend-light",
+      "topic": "General Trivia",
+      "prompt": "During a total lunar eclipse, why can the Moon look red?",
+      "options": ["The shadow hides only the blue parts of the Moon", "Mars reflects light onto the Moon", "Earth’s atmosphere filters sunlight", "The Moon heats up in Earth’s shadow"],
+      "correctIndex": 2,
+      "explanation": "Some sunlight bends through Earth’s atmosphere. More of the red light reaches the Moon."
+    },
+    {
+      "id": "quiz-wind-waker",
+      "topic": "Nintendo Games",
+      "prompt": "In The Wind Waker, what is the name of Link’s talking boat?",
+      "options": ["King of Red Lions", "Going Merry", "Red Loftwing", "S.S. Dolphin"],
+      "correctIndex": 0,
+      "explanation": "Link first encounters the boat after the Forsaken Fortress."
+    },
+    {
+      "id": "quiz-calendar",
+      "topic": "General Trivia",
+      "prompt": "Which of these years was a leap year under the Gregorian calendar?",
+      "options": ["2100", "2000", "1900", "2200"],
+      "correctIndex": 1,
+      "explanation": "Century years are leap years when divisible by 400."
+    },
+    {
+      "id": "quiz-majora",
+      "topic": "Nintendo Games",
+      "prompt": "Which song sends Link back to the first morning in Majora’s Mask?",
+      "options": ["Song of Healing", "Song of Time", "Inverted Song of Time", "Song of Double Time"],
+      "correctIndex": 1,
+      "explanation": "The Inverted Song of Time slows the clock instead."
+    },
+    {
+      "id": "quiz-respawn-charge",
+      "topic": "Minecraft",
+      "prompt": "Which block is used to charge a respawn anchor?",
+      "options": ["Glowstone", "Redstone block", "Crying obsidian", "Magma block"],
+      "correctIndex": 0,
+      "explanation": "Crying obsidian is needed to craft the anchor. Glowstone adds charges."
+    },
+    {
+      "id": "quiz-tetris-mirrors",
+      "topic": "Classic Games",
+      "prompt": "In Tetris, which two pieces are mirror-image zigzags?",
+      "options": ["L and J", "S and Z", "T and O", "I and S"],
+      "correctIndex": 1,
+      "explanation": "S and Z have opposing zigzag shapes. L and J are also mirror images, with one right angle each."
+    },
+    {
+      "id": "quiz-fruit",
+      "topic": "General Trivia",
+      "prompt": "Which of these fruits is a botanical berry?",
+      "options": ["Strawberry", "Cherry", "Banana", "Raspberry"],
+      "correctIndex": 2,
+      "explanation": "Strawberries and raspberries are aggregate fruits. A cherry is a drupe."
+    },
+    {
+      "id": "quiz-breath",
+      "topic": "Nintendo Games",
+      "prompt": "Which Divine Beast is shaped like a camel in Breath of the Wild?",
+      "options": ["Vah Ruta", "Vah Rudania", "Vah Medoh", "Vah Naboris"],
+      "correctIndex": 3,
+      "explanation": "Vah Naboris is found in the Gerudo Desert."
+    },
+    {
+      "id": "quiz-nergigante",
+      "topic": "Monster Hunter World",
+      "prompt": "Which spiky Elder Dragon is the flagship monster of the base game?",
+      "options": ["Vaal Hazak", "Teostra", "Nergigante", "Kushala Daora"],
+      "correctIndex": 2,
+      "explanation": "Its signature spikes regrow during the fight."
+    },
+    {
+      "id": "quiz-piglin",
+      "topic": "Minecraft",
+      "prompt": "What item do you give an adult piglin to barter with it?",
+      "options": ["Emerald", "Raw gold", "Gold nugget", "Gold ingot"],
+      "correctIndex": 3,
+      "explanation": "A piglin inspects an ingot and then throws an item back."
+    },
+    {
+      "id": "quiz-pac-behaviour",
+      "topic": "Classic Games",
+      "prompt": "When Pac-Man eats a Power Pellet, what happens to the ghosts?",
+      "options": ["They can be eaten temporarily", "They copy Pac-Man’s next turn", "They turn into fruit", "They return to the maze edge"],
+      "correctIndex": 0,
+      "explanation": "The frightened ghosts normally turn blue for a limited time."
+    },
+    {
+      "id": "quiz-tea",
+      "topic": "General Trivia",
+      "prompt": "Which pair of drinks is made from leaves of the same plant species?",
+      "options": ["Black tea and green tea", "Chamomile tea and black tea", "Green tea and peppermint tea", "Black tea and yerba mate"],
+      "correctIndex": 0,
+      "explanation": "Black and green tea both come from Camellia sinensis. The leaves are processed differently."
+    },
+    {
+      "id": "quiz-pikmin",
+      "topic": "Nintendo Games",
+      "prompt": "In the original Pikmin, which type can safely attack a fiery enemy?",
+      "options": ["Blue Pikmin", "Red Pikmin", "White Pikmin", "Yellow Pikmin"],
+      "correctIndex": 1,
+      "explanation": "Blue Pikmin can live in water. Red Pikmin can cross fire."
+    },
+    {
+      "id": "quiz-ow-armor",
+      "topic": "Classic Games",
+      "prompt": "Which hero could throw Armor Packs to allies in Overwatch’s original 2016 version?",
+      "options": ["Torbjörn", "Reinhardt", "Brigitte", "Bastion"],
+      "correctIndex": 0,
+      "explanation": "Brigitte was added later. The launch Armor Pack ability belonged to Torbjörn."
+    },
+    {
+      "id": "quiz-crisps-flight",
+      "topic": "General Trivia",
+      "prompt": "A sealed bag of crisps puffs up during a flight. What best explains it?",
+      "options": ["The air inside the bag leaks out", "The air inside the bag gets colder", "The bag absorbs moisture from the cabin", "The air pressure outside the bag drops"],
+      "correctIndex": 3,
+      "explanation": "The cabin is pressurized, but its pressure in flight is generally lower than at ground level."
+    },
+    {
+      "id": "quiz-smash",
+      "topic": "Nintendo Games",
+      "prompt": "In Super Smash Bros. Ultimate, Ness and Lucas come from which series?",
+      "options": ["Golden Sun", "Fire Emblem", "Xenoblade Chronicles", "EarthBound / Mother"],
+      "correctIndex": 3,
+      "explanation": "Ness is from EarthBound and Lucas is from Mother 3."
+    },
+    {
+      "id": "quiz-comparator",
+      "topic": "Minecraft",
+      "prompt": "Which redstone component can read how full a container is?",
+      "options": ["Comparator", "Target block", "Repeater", "Observer"],
+      "correctIndex": 0,
+      "explanation": "A comparator’s output depends on the fullness of the container behind it."
+    },
+    {
+      "id": "quiz-ow-map",
+      "topic": "Classic Games",
+      "prompt": "Which city is the Overwatch map King’s Row based on?",
+      "options": ["Paris", "Dublin", "Edinburgh", "London"],
+      "correctIndex": 3,
+      "explanation": "The streets and architecture are modelled on a futuristic London."
+    },
+    {
+      "id": "quiz-steam-burn",
+      "topic": "General Trivia",
+      "prompt": "Why does salting the ice around an ice cream maker help freeze the mixture?",
+      "options": ["Salt lowers the freezing point of water", "Salt conducts heat out of the ice cream", "Salt keeps ice from melting", "Salt makes ice melt at a higher temperature"],
+      "correctIndex": 0,
+      "explanation": "A mixture of ice and salt water can get colder than the freezing point of pure water."
+    },
+    {
+      "id": "quiz-nintendogs",
+      "topic": "Nintendo Games",
+      "prompt": "What could you do using the microphone in the original Nintendogs?",
+      "options": ["Play music to set the walking pace", "Call your dog by name", "Record audio for other players to hear", "Call the shopkeeper to order supplies"],
+      "correctIndex": 1,
+      "explanation": "The microphone also let you teach voice commands."
+    },
+    {
+      "id": "quiz-silk-touch",
+      "topic": "Minecraft",
+      "prompt": "Which enchantment lets you collect ordinary glass blocks intact with the appropriate tool?",
+      "options": ["Fortune", "Efficiency", "Looting", "Silk Touch"],
+      "correctIndex": 3,
+      "explanation": "Glass normally breaks without dropping the block."
+    },
+    {
+      "id": "quiz-baking-layers",
+      "topic": "General Trivia",
+      "prompt": "Which pastry gets its layers from repeatedly folding butter into dough?",
+      "options": ["Shortcrust pastry", "Filo pastry", "Choux pastry", "Puff pastry"],
+      "correctIndex": 3,
+      "explanation": "Steam separates sheets of laminated dough during baking."
+    },
+    {
+      "id": "quiz-wario",
+      "topic": "Nintendo Games",
+      "prompt": "How do WarioWare’s signature microgames differ from most minigames?",
+      "options": ["They all use the microphone", "They give you only seconds to react", "They all use two players", "They are always turn-based"],
+      "correctIndex": 1,
+      "explanation": "The game throws short tasks at you in rapid succession."
+    },
+    {
+      "id": "quiz-lego",
+      "topic": "Classic Games",
+      "prompt": "What typically spills out when a character breaks apart in a LEGO Star Wars level?",
+      "options": ["Minikits", "Studs", "Gold bricks", "Kyber crystals"],
+      "correctIndex": 1,
+      "explanation": "Players collect studs as currency throughout the levels."
+    },
+    {
+      "id": "quiz-camera-lens",
+      "topic": "General Trivia",
+      "prompt": "Which setting mainly controls how long light reaches a camera’s sensor?",
+      "options": ["ISO", "Focal length", "Shutter speed", "White balance"],
+      "correctIndex": 2,
+      "explanation": "A longer exposure can blur motion."
+    },
+    {
+      "id": "quiz-capture",
+      "topic": "Monster Hunter World",
+      "prompt": "What can you use with a trap to capture a weakened Rathian?",
+      "options": ["Flash Pods", "Screamer Pods", "Tranq Bombs", "Dung Pods"],
+      "correctIndex": 2,
+      "explanation": "A weakened, trappable monster can be captured after it receives enough tranquilizer."
+    },
+    {
+      "id": "quiz-lodestone",
+      "topic": "Minecraft",
+      "prompt": "What happens if you use a compass on a lodestone?",
+      "options": ["It always points north", "It shows the nearest stronghold", "It shows your own respawn point", "It points to the lodestone"],
+      "correctIndex": 3,
+      "explanation": "A normal compass points toward world spawn in the Overworld."
+    },
+    {
+      "id": "quiz-among-map",
+      "topic": "Classic Games",
+      "prompt": "On which Among Us map do you cross a snow-covered surface between buildings?",
+      "options": ["The Airship", "The Skeld", "MIRA HQ", "Polus"],
+      "correctIndex": 3,
+      "explanation": "Polus is an outpost with substantial outdoor areas."
+    },
+    {
+      "id": "quiz-eu-drive",
+      "topic": "General Trivia",
+      "prompt": "In which country do people normally drive on the left?",
+      "options": ["South Korea", "Japan", "Vietnam", "The Philippines"],
+      "correctIndex": 1,
+      "explanation": "The other three use right-hand traffic."
+    },
+    {
+      "id": "quiz-donkey-kong",
+      "topic": "Nintendo Games",
+      "prompt": "Which two Kongs are playable in the original SNES Donkey Kong Country?",
+      "options": ["Dixie and Kiddy", "Diddy and Dixie", "Donkey and Cranky", "Donkey and Diddy"],
+      "correctIndex": 3,
+      "explanation": "The original follows Donkey and Diddy. Dixie arrives in the sequel."
+    },
+    {
+      "id": "quiz-slime",
+      "topic": "Minecraft",
+      "prompt": "Which moon phase gives slimes the best chance to spawn at night in a swamp?",
+      "options": ["The phase has no effect", "First quarter", "Full moon", "New moon"],
+      "correctIndex": 2,
+      "explanation": "This is the swamp rule. Slime chunks use different conditions."
+    },
+    {
+      "id": "quiz-fortnite",
+      "topic": "Classic Games",
+      "prompt": "Which original Fortnite Battle Royale location was known for its cluster of tall buildings?",
+      "options": ["Lonely Lodge", "Loot Lake", "Tilted Towers", "Wailing Woods"],
+      "correctIndex": 2,
+      "explanation": "Tilted Towers put a dense city fight on the original island."
+    },
+    {
+      "id": "quiz-first-feature",
+      "topic": "General Trivia",
+      "prompt": "Which of these animated films reached cinemas first?",
+      "options": ["The Incredibles", "Finding Nemo", "Shrek", "Ratatouille"],
+      "correctIndex": 2,
+      "explanation": "Shrek came out in 2001. The others followed in 2003, 2004, and 2007."
+    },
+    {
+      "id": "quiz-blathers",
+      "topic": "Nintendo Games",
+      "prompt": "In Animal Crossing: New Horizons, which museum curator is afraid of bugs?",
+      "options": ["Redd", "Celeste", "Blathers", "Brewster"],
+      "correctIndex": 2,
+      "explanation": "Blathers still accepts bugs for the museum."
+    },
+    {
+      "id": "quiz-portal-companion",
+      "topic": "Classic Games",
+      "prompt": "Which cube does GLaDOS make you incinerate in the original Portal?",
+      "options": ["Reflection Cube", "Edgeless Safety Cube", "FrankenTurret", "Companion Cube"],
+      "correctIndex": 3,
+      "explanation": "The Companion Cube is marked with hearts."
+    },
+    {
+      "id": "quiz-mystery-dungeon",
+      "topic": "Nintendo Games",
+      "prompt": "Which Pokémon series begins by turning the player into a Pokémon?",
+      "options": ["Pokémon Ranger", "Pokémon Mystery Dungeon", "Pokémon Stadium", "Pokémon Snap"],
+      "correctIndex": 1,
+      "explanation": "You explore dungeons with a partner Pokémon."
+    },
+    {
+      "id": "quiz-mending",
+      "topic": "Minecraft",
+      "prompt": "What resource repairs a held or equipped item with Mending?",
+      "options": ["Lapis lazuli", "Experience orbs", "Redstone dust", "Ender pearls"],
+      "correctIndex": 1,
+      "explanation": "Experience can restore durability instead of going into the XP bar."
+    },
+    {
+      "id": "quiz-roman-date",
+      "topic": "General Trivia",
+      "prompt": "Which number is written as XLIX in Roman numerals?",
+      "options": ["69", "39", "59", "49"],
+      "correctIndex": 3,
+      "explanation": "XL is 40 and IX is 9."
+    },
+    {
+      "id": "quiz-pearl-starter",
+      "topic": "Nintendo Games",
+      "prompt": "Which Pokémon is the Fire-type starter in Pokémon Diamond and Pearl?",
+      "options": ["Chimchar", "Tepig", "Torchic", "Cyndaquil"],
+      "correctIndex": 0,
+      "explanation": "The other Sinnoh starters are Turtwig and Piplup."
+    },
+    {
+      "id": "quiz-soul",
+      "topic": "Classic Games",
+      "prompt": "In Dark Souls, what happens to carried souls if you die again before reaching your bloodstain?",
+      "options": ["They turn into Humanity", "They return to the last bonfire", "They are lost", "They are restored when you level up"],
+      "correctIndex": 2,
+      "explanation": "You get one chance to retrieve the previous bloodstain."
+    },
+    {
+      "id": "quiz-bluetooth",
+      "topic": "General Trivia",
+      "prompt": "What inspired the name of Bluetooth wireless technology?",
+      "options": ["A British telephone exchange", "A medieval king’s nickname", "A blue marker used in circuit diagrams", "A term for pairing two radio channels"],
+      "correctIndex": 1,
+      "explanation": "The technology was named for Harald Bluetooth, a Danish king."
+    },
+    {
+      "id": "quiz-metroid-planet",
+      "topic": "Nintendo Games",
+      "prompt": "Which planet is the main setting of the original Metroid Prime?",
+      "options": ["ZDR", "Tallon IV", "SR388", "Zebes"],
+      "correctIndex": 1,
+      "explanation": "ZDR is the main setting of Metroid Dread."
+    },
+    {
+      "id": "quiz-glaive",
+      "topic": "Monster Hunter World",
+      "prompt": "Which World weapon uses a Kinsect to gather extracts from monsters?",
+      "options": ["Gunlance", "Insect Glaive", "Switch Axe", "Bow"],
+      "correctIndex": 1,
+      "explanation": "Kinsect extracts provide buffs to the hunter."
+    },
+    {
+      "id": "quiz-axolotl",
+      "topic": "Minecraft",
+      "prompt": "Which bucketed fish can be used to breed axolotls?",
+      "options": ["Salmon", "Tropical fish", "Pufferfish", "Cod"],
+      "correctIndex": 1,
+      "explanation": "Use a bucket containing a live tropical fish."
+    },
+    {
+      "id": "quiz-sound-vacuum",
+      "topic": "General Trivia",
+      "prompt": "Which of these can travel through the vacuum between Earth and the Moon?",
+      "options": ["A radio signal", "A ripple of air pressure", "A sound wave", "A water wave"],
+      "correctIndex": 0,
+      "explanation": "Radio waves are electromagnetic. Sound needs a medium such as air."
+    },
+    {
+      "id": "quiz-dnd-damage",
+      "topic": "Classic Games",
+      "prompt": "What is the DnD 5e Class with the highest single-target damage potential in a single round on level 1?",
+      "options": ["Fighter", "Sorcerer", "Barbarian", "Wizard"],
+      "correctIndex": 1,
+      "explanation": "Wild Magic Sorcerers can use a combination of Chromatic Orb and Fireball through the Wild Magic Surge table to deal a maximum of 240 damage in a single round at level 1."
+    },
+    {
+      "id": "quiz-league",
+      "topic": "Classic Games",
+      "prompt": "On Summoner’s Rift in League of Legends, which objective must you destroy to win a normal match?",
+      "options": ["Inhibitor", "Nexus", "Elemental Drake", "Baron Nashor"],
+      "correctIndex": 1,
+      "explanation": "Taking an inhibitor strengthens your lane but does not end the match."
+    },
+    {
+      "id": "quiz-pokemon-eevee",
+      "prompt": "Which Pokémon evolves into Vaporeon when given a Water Stone?",
+      "options": ["Psyduck", "Poliwag", "Eevee", "Squirtle"],
+      "correctIndex": 2,
+      "explanation": "Vaporeon is the Water-type evolution of Eevee.",
+      "topic": "Nintendo Games"
+    },
+    {
+      "id": "quiz-rocket-demolition",
+      "topic": "Classic Games",
+      "prompt": "Which action can demolish an opponent’s car in Rocket League?",
+      "options": ["Ram it at supersonic speed", "Hit their car with the ball", "Land on their roof at idle speed", "Steal their last boost pickup"],
+      "correctIndex": 0,
+      "explanation": "A qualifying supersonic collision removes the opponent’s car until it respawns."
+    },
+    {
+      "id": "quiz-octopus",
+      "prompt": "How many hearts does an octopus have?",
+      "options": ["Four", "One", "Three", "Two"],
+      "correctIndex": 2,
+      "explanation": "Two pump blood to the gills. The third sends it to the rest of the body.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "quiz-splatoon",
+      "topic": "Nintendo Games",
+      "prompt": "In Splatoon’s Turf War, what determines the winner?",
+      "options": ["Fastest player to the middle", "Most time airborne", "Ground covered in ink", "Most opponents splatted"],
+      "correctIndex": 2,
+      "explanation": "Your team wins by inking more of the ground."
+    },
+    {
+      "id": "quiz-pac-red",
+      "topic": "Classic Games",
+      "prompt": "What is the English name of the red ghost in the original Pac-Man?",
+      "options": ["Clyde", "Blinky", "Inky", "Pinky"],
+      "correctIndex": 1,
+      "explanation": "Pinky is pink, Inky is cyan, and Clyde is orange."
+    },
+    {
+      "id": "quiz-tour-de-france",
+      "topic": "General Trivia",
+      "prompt": "What color is the special jersey worn by the overall leader of the Tour de France?",
+      "options": ["Yellow", "Red", "Green", "No Jersey"],
+      "correctIndex": 0,
+      "explanation": "The jersey is called the maillot jaune."
+    },
+    {
+      "id": "quiz-shulker",
+      "topic": "Minecraft",
+      "prompt": "Which storage block keeps its contents when you break and pick it up?",
+      "options": ["Shulker box", "Barrel", "Regular chest", "Dispenser"],
+      "correctIndex": 0,
+      "explanation": "Shulker shells are used to craft shulker boxes."
+    },
+    {
+      "id": "quiz-gta-dog",
+      "topic": "Classic Games",
+      "prompt": "What is the name of the Rottweiler you can walk as Franklin in GTA V?",
+      "options": ["Chop", "Dogmeat", "Rufus", "Rex"],
+      "correctIndex": 0,
+      "explanation": "Chop originally belongs to Lamar."
+    },
+    {
+      "id": "quiz-tiramisu",
+      "topic": "General Trivia",
+      "prompt": "Which drink is traditionally used to soak the ladyfingers in tiramisu?",
+      "options": ["Cola", "Orange juice", "Coffee", "Green tea"],
+      "correctIndex": 2,
+      "explanation": "Coffee-soaked biscuits are layered with a mascarpone mixture."
+    },
+    {
+      "id": "quiz-kirby",
+      "prompt": "In Kirby’s Dream Land, who steals the people’s food at the start of the game?",
+      "options": ["King Dedede", "Marx", "Meta Knight", "Magolor"],
+      "correctIndex": 0,
+      "explanation": "Kirby sets out for Mount Dedede to recover the stolen food.",
+      "topic": "Nintendo Games"
+    },
+    {
+      "id": "quiz-overwatch-recall",
+      "topic": "Classic Games",
+      "prompt": "Which Overwatch hero uses Recall to return to a recent position?",
+      "options": ["Mercy", "Widowmaker", "Genji", "Tracer"],
+      "correctIndex": 3,
+      "explanation": "Recall also restores Tracer’s health to its earlier value."
+    },
+    {
+      "id": "quiz-bat",
+      "topic": "General Trivia",
+      "prompt": "Which of these mammals can fly under its own power?",
+      "options": ["Colugo", "Bat", "Flying squirrel", "Sugar glider"],
+      "correctIndex": 1,
+      "explanation": "The other three glide. Bats use powered flight."
+    },
+    {
+      "id": "quiz-mario64-cap",
+      "prompt": "Which cap lets Mario pass through some walls in Super Mario 64?",
+      "options": ["Power Cap", "Metal Cap", "Wing Cap", "Vanish Cap"],
+      "correctIndex": 3,
+      "explanation": "The Vanish Cap lets Mario slip through barriers such as metal grates.",
+      "topic": "Nintendo Games"
+    },
+    {
+      "id": "quiz-portal",
+      "topic": "Classic Games",
+      "prompt": "Who speaks to Chell during most of the tests in the original Portal?",
+      "options": ["Cortana", "Wheatley", "GLaDOS", "Siri"],
+      "correctIndex": 2,
+      "explanation": "Wheatley is introduced in Portal 2."
+    },
+    {
+      "id": "quiz-machu-picchu",
+      "prompt": "Which civilization built Machu Picchu?",
+      "options": ["Olmec", "Inca", "Maya", "Aztec"],
+      "correctIndex": 1,
+      "explanation": "The site lies high in the Peruvian Andes.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "quiz-odyssey-hat",
+      "topic": "Nintendo Games",
+      "prompt": "What is the name of Mario’s companion in Super Mario Odyssey?",
+      "options": ["Tiara", "F.L.U.D.D.", "Cappy", "Luma"],
+      "correctIndex": 2,
+      "explanation": "Cappy helps Mario take control of enemies and objects."
+    },
+    {
+      "id": "quiz-ore",
+      "topic": "Minecraft",
+      "prompt": "Which material do you combine with diamond gear to upgrade it at a smithing table?",
+      "options": ["Raw copper", "Iron nugget", "Amethyst shard", "Netherite ingot"],
+      "correctIndex": 3,
+      "explanation": "Modern versions also require the Netherite Upgrade template."
+    },
+    {
+      "id": "quiz-half-life",
+      "topic": "Classic Games",
+      "prompt": "Who is the main playable character in Half-Life 2?",
+      "options": ["Barney Calhoun", "Adrian Shephard", "Gordon Freeman", "Alyx Vance"],
+      "correctIndex": 2,
+      "explanation": "Gordon is the silent scientist from the original Half-Life."
+    },
+    {
+      "id": "quiz-sodium",
+      "prompt": "Which element has the chemical symbol Na?",
+      "options": ["Sodium", "Nickel", "Nitrogen", "Neon"],
+      "correctIndex": 0,
+      "explanation": "Na comes from natrium, the Latin name for sodium.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "quiz-skyrim",
+      "prompt": "What three words make up the Unrelenting Force shout in Skyrim?",
+      "options": ["Fus Ro Dah", "Wuld Nah Kest", "Yol Toor Shul", "Fo Krah Diin"],
+      "correctIndex": 0,
+      "explanation": "Fus, Ro, and Dah mean Force, Balance, and Push.",
+      "topic": "Classic Games"
+    },
+    {
+      "id": "quiz-tennis",
+      "topic": "General Trivia",
+      "prompt": "In tennis, what score is called after both players win three points in the same game?",
+      "options": ["Deuce", "Advantage", "Love", "Tie-break"],
+      "correctIndex": 0,
+      "explanation": "Three points each is 40–40, also known as deuce."
+    },
+    {
+      "id": "quiz-fzero",
+      "prompt": "What is the name of Captain Falcon’s machine in F-Zero?",
+      "options": ["Wild Goose", "Blue Falcon", "Fire Stingray", "Golden Fox"],
+      "correctIndex": 1,
+      "explanation": "The other three machines are driven by Samurai Goroh, Pico, and Dr. Stewart.",
+      "topic": "Nintendo Games"
+    },
+    {
+      "id": "quiz-stardew-town",
+      "prompt": "What town is home to Pierre’s shop and the Stardrop Saloon in Stardew Valley?",
+      "options": ["Pallet Town", "Delfino Plaza", "Mineral Town", "Pelican Town"],
+      "correctIndex": 3,
+      "explanation": "Pelican Town includes Pierre’s shop, the saloon, and the community center.",
+      "topic": "Classic Games"
+    },
+    {
+      "id": "quiz-abbey-road",
+      "prompt": "Which Beatles album cover shows the band on a zebra crossing?",
+      "options": ["Revolver", "Let It Be", "Abbey Road", "Rubber Soul"],
+      "correctIndex": 2,
+      "explanation": "The crossing is near the recording studios in London.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "quiz-swimming-mario",
+      "topic": "Nintendo Games",
+      "prompt": "In Super Mario Sunshine, what device helps Mario clean up Isle Delfino?",
+      "options": ["Super Scope", "Cappy", "F.L.U.D.D.", "Poltergust 3000"],
+      "correctIndex": 2,
+      "explanation": "F.L.U.D.D. is Mario’s water-spraying backpack."
+    },
+    {
+      "id": "quiz-mariokart-players",
+      "topic": "Nintendo Games",
+      "prompt": "In Super Mario Kart 8 Deluxe, how many players can play on one console?",
+      "options": ["2", "4", "8", "16"],
+      "correctIndex": 2,
+      "explanation": "The Switch 2 added support for up to 8 players on one console."
+    },
+    {
+      "id": "quiz-warden",
+      "topic": "Minecraft",
+      "prompt": "Which block can summon a Warden in the Deep Dark when activated repeatedly?",
+      "options": ["Regular sculk sensor", "Obsidian", "Naturally generated sculk shrieker", "Redstone lamp"],
+      "correctIndex": 2,
+      "explanation": "A naturally generated shrieker can call a Warden after enough warnings."
+    }
+  ],
+  "higherLower": [
+    {
+      "id": "higher-crystal-count",
+      "topic": "Nintendo Games",
+      "prompt": "Which quest centres on more collectibles?",
+      "knownItem": "Collect every Crystal Star in Paper Mario: The Thousand-Year Door",
+      "knownValue": 7,
+      "secondItem": "Collect the Triforce shards in The Wind Waker (original GameCube)",
+      "secondValue": 8,
+      "unit": "collectibles",
+      "explanation": "The Wind Waker HD makes several shards easier to obtain but still uses eight pieces."
+    },
+    {
+      "id": "higher-surface",
+      "topic": "General Trivia",
+      "prompt": "Does Neptune have a greater or smaller diameter than Earth?",
+      "knownItem": "Earth (equatorial diameter)",
+      "knownValue": 12756,
+      "secondItem": "Neptune (equatorial diameter)",
+      "secondValue": 49528,
+      "unit": "km",
+      "explanation": "The four giant planets are wider than Earth."
+    },
+    {
+      "id": "higher-world-height",
+      "topic": "Minecraft",
+      "prompt": "Did the second Overworld have a greater or smaller buildable height range?",
+      "knownItem": "Minecraft Java 1.17 Overworld",
+      "knownValue": 256,
+      "secondItem": "Minecraft Java 1.18 Overworld",
+      "secondValue": 384,
+      "unit": "blocks",
+      "explanation": "Caves & Cliffs Part II added 64 blocks above and 64 below the old range."
+    },
+    {
+      "id": "higher-mount-mass",
+      "topic": "General Trivia",
+      "prompt": "Is the second element’s atomic number higher or lower?",
+      "knownItem": "Iron (Fe)",
+      "knownValue": 26,
+      "secondItem": "Copper (Cu)",
+      "secondValue": 29,
+      "unit": "protons",
+      "explanation": "Follow the periodic table from iron through cobalt and nickel to copper."
+    },
+    {
+      "id": "higher-boiling",
+      "topic": "General Trivia",
+      "prompt": "Is the second liquid’s normal boiling point higher or lower?",
+      "knownItem": "Pure water at sea-level pressure",
+      "knownValue": 100,
+      "secondItem": "Pure ethanol at the same pressure",
+      "secondValue": 78.4,
+      "unit": "°C",
+      "explanation": "With comparable pressure, ethanol boils at a lower temperature."
+    },
+    {
+      "id": "higher-party-count",
+      "topic": "Nintendo Games",
+      "prompt": "Does the second Mario Party collection have more or fewer minigames?",
+      "knownItem": "Mario Party Superstars",
+      "knownValue": 100,
+      "secondItem": "Super Mario Party on Nintendo Switch (original 2018)",
+      "secondValue": 80,
+      "unit": "minigames",
+      "explanation": "The 2018 game has 80, while Superstars revisits 100 from earlier entries."
+    },
+    {
+      "id": "higher-gta-cap",
+      "topic": "Classic Games",
+      "prompt": "Does the second game have a higher or lower maximum wanted level?",
+      "knownItem": "GTA V",
+      "knownValue": 5,
+      "secondItem": "GTA: San Andreas",
+      "secondValue": 6,
+      "unit": "stars",
+      "explanation": "The two games have different wanted-level scales."
+    },
+    {
+      "id": "higher-mountains",
+      "prompt": "Is the second mountain higher or lower?",
+      "knownItem": "Mount Kilimanjaro",
+      "knownValue": 5895,
+      "secondItem": "Mont Blanc",
+      "secondValue": 4806,
+      "unit": "m above sea level",
+      "explanation": "Mont Blanc's snow-covered summit changes height. This is the rounded 2023 survey value.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "higher-wii-sports",
+      "topic": "Nintendo Games",
+      "prompt": "Does the second Wii game include more or fewer sports?",
+      "knownItem": "Wii Sports",
+      "knownValue": 5,
+      "secondItem": "Wii Sports Resort",
+      "secondValue": 12,
+      "unit": "sports",
+      "explanation": "Resort adds activities such as archery, canoeing, and swordplay."
+    },
+    {
+      "id": "higher-orbits",
+      "prompt": "Does Jupiter take more or fewer Earth days to orbit the Sun?",
+      "knownItem": "Mars",
+      "knownValue": 687,
+      "secondItem": "Jupiter",
+      "secondValue": 4333,
+      "unit": "Earth days",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "higher-landmark-height",
+      "topic": "General Trivia",
+      "prompt": "Is the second landmark taller or shorter?",
+      "knownItem": "Washington Monument",
+      "knownValue": 169,
+      "secondItem": "Eiffel Tower with its 2022 antenna",
+      "secondValue": 330,
+      "unit": "metres",
+      "explanation": "The heights are rounded to the nearest metre."
+    },
+    {
+      "id": "higher-minutes",
+      "topic": "Minecraft",
+      "prompt": "Is the second duration longer or shorter in a loaded area under normal conditions?",
+      "knownItem": "One full Overworld day–night cycle",
+      "knownValue": 20,
+      "secondItem": "Time before a dropped item normally despawns",
+      "secondValue": 5,
+      "unit": "real-world minutes",
+      "explanation": "The despawn clock runs while the item is in a ticking chunk."
+    },
+    {
+      "id": "higher-portal-launch",
+      "topic": "Classic Games",
+      "prompt": "Did the second Valve puzzle game first release earlier or later?",
+      "knownItem": "Portal 2",
+      "knownValue": 2011,
+      "secondItem": "Portal",
+      "secondValue": 2007,
+      "unit": "year"
+    },
+    {
+      "id": "higher-football-time",
+      "topic": "General Trivia",
+      "prompt": "Does the second sport have more or fewer minutes of standard regulation play, excluding stoppage time?",
+      "knownItem": "FIFA football (soccer)",
+      "knownValue": 90,
+      "secondItem": "NBA basketball",
+      "secondValue": 48,
+      "unit": "minutes",
+      "explanation": "FIFA football uses two 45-minute halves. The NBA uses four 12-minute quarters."
+    },
+    {
+      "id": "higher-zelda-clock",
+      "topic": "Nintendo Games",
+      "prompt": "Does the second game give you more or fewer in-game days?",
+      "knownItem": "Majora’s Mask before the moon falls",
+      "knownValue": 3,
+      "secondItem": "Pikmin before Olimar’s oxygen runs out",
+      "secondValue": 30,
+      "unit": "in-game days",
+      "explanation": "Majora’s Mask lets Link reset its three-day cycle."
+    },
+    {
+      "id": "higher-release-pc",
+      "topic": "Monster Hunter World",
+      "prompt": "Did the second Monster Hunter game release on Steam earlier or later?",
+      "knownItem": "Monster Hunter: World",
+      "knownValue": 2018,
+      "secondItem": "Monster Hunter Rise",
+      "secondValue": 2022,
+      "unit": "year",
+      "explanation": "This comparison uses Steam dates, including Rise’s PC launch in 2022."
+    },
+    {
+      "id": "higher-durability",
+      "topic": "Minecraft",
+      "prompt": "Which takes more wear? Is the second pickaxe’s base durability higher or lower?",
+      "knownItem": "Iron pickaxe",
+      "knownValue": 250,
+      "secondItem": "Diamond pickaxe",
+      "secondValue": 1561,
+      "unit": "durability points",
+      "explanation": "These are base values before any enchantments."
+    },
+    {
+      "id": "higher-indie-releases",
+      "topic": "Classic Games",
+      "prompt": "Did the second indie game first release on PC earlier or later?",
+      "knownItem": "Terraria",
+      "knownValue": 2011,
+      "secondItem": "Stardew Valley",
+      "secondValue": 2016,
+      "unit": "year"
+    }
+  ],
+  "numberGuess": [
+    {
+      "id": "guess-euro-year",
+      "topic": "General Trivia",
+      "prompt": "In what year did euro banknotes and coins enter circulation?",
+      "answer": 2002,
+      "unit": "year",
+      "explanation": "The euro had already been introduced for accounting and electronic payments in 1999."
+    },
+    {
+      "id": "guess-original-smash",
+      "topic": "Nintendo Games",
+      "prompt": "How many playable fighters are in the original Super Smash Bros. for Nintendo 64, including unlockables?",
+      "answer": 12,
+      "unit": "fighters",
+      "explanation": "Eight fighters are available at the start, and four more can be unlocked."
+    },
+    {
+      "id": "guess-pac-perfect",
+      "topic": "Classic Games",
+      "prompt": "What score is considered a perfect game on the original arcade version of Pac-Man?",
+      "answer": 3333360,
+      "unit": "points",
+      "explanation": "A perfect game requires every available point, including those on the split-screen stage."
+    },
+    {
+      "id": "guess-a4",
+      "topic": "General Trivia",
+      "prompt": "How wide is the shorter edge of an A4 sheet of paper?",
+      "answer": 210,
+      "unit": "mm",
+      "explanation": "A4 measures 210 by 297 millimetres."
+    },
+    {
+      "id": "guess-zelda-shrines",
+      "topic": "Nintendo Games",
+      "prompt": "How many shrines can be completed in the base game of Breath of the Wild?",
+      "answer": 120,
+      "unit": "shrines",
+      "explanation": "This excludes the Expansion Pass."
+    },
+    {
+      "id": "guess-anchor",
+      "topic": "Minecraft",
+      "prompt": "How many crying obsidian blocks are used to craft one respawn anchor?",
+      "answer": 6,
+      "unit": "blocks",
+      "explanation": "The recipe also requires three glowstone blocks."
+    },
+    {
+      "id": "guess-tetris-width",
+      "topic": "Classic Games",
+      "prompt": "How many columns wide is the usual modern Tetris playfield?",
+      "answer": 10,
+      "unit": "columns",
+      "explanation": "One full horizontal row needs ten occupied cells."
+    },
+    {
+      "id": "guess-thousand-seconds",
+      "topic": "General Trivia",
+      "prompt": "How many seconds are in a 24-hour day?",
+      "answer": 86400,
+      "unit": "seconds",
+      "explanation": "Multiply 24 by 60 by 60."
+    },
+    {
+      "id": "guess-pikmin-captains",
+      "topic": "Nintendo Games",
+      "prompt": "How many named captains can you switch between in the main story of Pikmin 3?",
+      "answer": 3,
+      "unit": "captains",
+      "explanation": "Alph, Brittany, and Charlie are the three explorers."
+    },
+    {
+      "id": "guess-conduit",
+      "topic": "Minecraft",
+      "prompt": "How many nautilus shells are needed to craft a conduit around one Heart of the Sea?",
+      "answer": 8,
+      "unit": "shells",
+      "explanation": "The Heart of the Sea goes in the central slot."
+    },
+    {
+      "id": "guess-gta-playlist",
+      "topic": "Classic Games",
+      "prompt": "In what year did Grand Theft Auto V first release on Windows PC?",
+      "answer": 2015,
+      "unit": "year",
+      "explanation": "The original PS3 and Xbox 360 launch was in 2013."
+    },
+    {
+      "id": "guess-movie-fast",
+      "topic": "General Trivia",
+      "prompt": "How many minutes does it take to watch a 2-hour, 20-minute movie at 1.25× speed?",
+      "answer": 112,
+      "unit": "minutes",
+      "explanation": "Divide 140 minutes by 1.25."
+    },
+    {
+      "id": "guess-splatoon-blast",
+      "topic": "Nintendo Games",
+      "prompt": "How many players are on the field at once in Splatoon 3’s standard Tricolor Turf War?",
+      "answer": 8,
+      "unit": "players",
+      "explanation": "Two two-player attacking teams face one four-player defending team."
+    },
+    {
+      "id": "guess-weapons",
+      "topic": "Monster Hunter World",
+      "prompt": "How many different weapon types can a hunter choose from in Monster Hunter: World?",
+      "answer": 14,
+      "unit": "weapon types",
+      "explanation": "World has 11 melee and three ranged types."
+    },
+    {
+      "id": "guess-anvil",
+      "topic": "Minecraft",
+      "prompt": "How many iron ingots does it take to craft an anvil from scratch, including the ingots used for the iron blocks?",
+      "answer": 31,
+      "unit": "iron ingots",
+      "explanation": "Three iron blocks cost 27 ingots, and the recipe uses four more ingots."
+    },
+    {
+      "id": "guess-apex-squad",
+      "topic": "Classic Games",
+      "prompt": "At its 2019 launch, how many squads could fill an Apex Legends match if every squad had three players?",
+      "answer": 20,
+      "unit": "squads",
+      "explanation": "The launch format was 60 players in 20 squads of three."
+    },
+    {
+      "id": "guess-ring-distance",
+      "topic": "General Trivia",
+      "prompt": "How many metres is one lap of a standard outdoor athletics track in lane one?",
+      "answer": 400,
+      "unit": "metres",
+      "explanation": "Standard outdoor tracks are 400 metres around in lane one."
+    },
+    {
+      "id": "guess-track-double",
+      "topic": "Nintendo Games",
+      "prompt": "How many race courses are in Mario Kart: Double Dash!! on GameCube, excluding battle arenas?",
+      "answer": 16,
+      "unit": "race courses",
+      "explanation": "The four standard cups have four courses each. All-Cup Tour reuses those courses."
+    },
+    {
+      "id": "guess-enchants",
+      "topic": "Minecraft",
+      "prompt": "What is the highest level requirement an enchanting table can show with enough bookshelves?",
+      "answer": 30,
+      "unit": "levels",
+      "explanation": "Fifteen correctly placed bookshelves unlock the maximum offer."
+    },
+    {
+      "id": "guess-sims-max",
+      "topic": "Classic Games",
+      "prompt": "How many Sims can be in one household in the base game of The Sims 4, without mods?",
+      "answer": 8,
+      "unit": "Sims",
+      "explanation": "Eight is the default household member limit."
+    },
+    {
+      "id": "guess-marathon",
+      "prompt": "How long is a full marathon in kilometres?",
+      "answer": 42.195,
+      "unit": "km",
+      "explanation": "The official distance is 42 km and 195 metres.",
+      "topic": "General Trivia"
+    },
+    {
+      "id": "guess-gold-silver-badges",
+      "topic": "Nintendo Games",
+      "prompt": "How many Gym Badges can you collect in the original Pokémon Gold or Silver, including both regions?",
+      "answer": 16,
+      "unit": "badges",
+      "explanation": "There are eight in Johto and eight in Kanto."
+    },
+    {
+      "id": "guess-end-crystals",
+      "topic": "Minecraft",
+      "prompt": "How many End Crystals are needed to respawn the Ender Dragon at the exit portal?",
+      "answer": 4,
+      "unit": "End Crystals",
+      "explanation": "One crystal goes on each side of the exit portal."
+    },
+    {
+      "id": "guess-overwatch-roster",
+      "topic": "Classic Games",
+      "prompt": "How many playable heroes were in the original Overwatch at launch in 2016?",
+      "answer": 21,
+      "unit": "heroes",
+      "explanation": "That is the launch roster, before post-launch heroes such as Ana."
+    },
+    {
+      "id": "guess-year-hours",
+      "topic": "General Trivia",
+      "prompt": "How many hours are in one full non-leap year?",
+      "answer": 8760,
+      "unit": "hours",
+      "explanation": "A non-leap year has 365 days of 24 hours each."
+    },
+    {
+      "id": "guess-animal-islanders",
+      "topic": "Nintendo Games",
+      "prompt": "What is the maximum number of animal villagers on your island in Animal Crossing: New Horizons?",
+      "answer": 10,
+      "unit": "animal villagers",
+      "explanation": "Human profiles and service characters such as Isabelle do not count."
+    },
+    {
+      "id": "guess-kirin",
+      "topic": "Monster Hunter World",
+      "prompt": "In the base game, at what Hunter Rank does Thunderous Rumble in the Highlands unlock?",
+      "answer": 49,
+      "unit": "Hunter Rank",
+      "explanation": "The assignment is to hunt a tempered Kirin."
+    },
+    {
+      "id": "guess-redstone",
+      "topic": "Minecraft",
+      "prompt": "How many blocks can an uninterrupted line of redstone dust carry a full-strength signal before it needs a boost?",
+      "answer": 15,
+      "unit": "blocks of dust",
+      "explanation": "The first piece is strength 15 and the fifteenth is strength 1."
+    },
+    {
+      "id": "guess-rocket-time",
+      "topic": "Classic Games",
+      "prompt": "How many minutes are on the clock at the start of a standard Rocket League match, before overtime?",
+      "answer": 5,
+      "unit": "minutes",
+      "explanation": "A tie at the end of regulation goes to sudden-death overtime."
+    }
+  ],
+  "songQuiz": [
+    {
+      "id": "hits-01",
+      "label": "Instrumental #01",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "Seven Nation Army",
+      "explanation": "The White Stripes",
+      "audio": {
+        "file": "song-quiz/hook-01.mp3",
+        "start": 0,
+        "duration": 8
+      }
+    },
+    {
+      "id": "hits-02",
+      "label": "Instrumental #02",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "Blinding Lights",
+      "explanation": "The Weeknd",
+      "audio": {
+        "file": "song-quiz/hook-02.mp3",
+        "start": 0,
+        "duration": 10
+      }
+    },
+    {
+      "id": "hits-03",
+      "label": "Instrumental #03",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "Take On Me",
+      "explanation": "a-ha",
+      "audio": {
+        "file": "song-quiz/hook-03.mp3",
+        "start": 0,
+        "duration": 9
+      }
+    },
+    {
+      "id": "hits-04",
+      "label": "Instrumental #04",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "Shape of You",
+      "explanation": "Ed Sheeran",
+      "audio": {
+        "file": "song-quiz/hook-04.mp3",
+        "start": 0,
+        "duration": 10
+      }
+    },
+    {
+      "id": "hits-05",
+      "label": "Instrumental #05",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "Axel F",
+      "explanation": "Harold Faltermeyer / Crazy Frog. Accept the title from either version.",
+      "audio": {
+        "file": "song-quiz/hook-05.mp3",
+        "start": 0,
+        "duration": 9
+      }
+    },
+    {
+      "id": "hits-06",
+      "label": "Instrumental #06",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "bad guy",
+      "explanation": "Billie Eilish",
+      "audio": {
+        "file": "song-quiz/hook-06.mp3",
+        "start": 0,
+        "duration": 9
+      }
+    },
+    {
+      "id": "hits-07",
+      "label": "Instrumental #07",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "Still D.R.E.",
+      "explanation": "Dr. Dre feat. Snoop Dogg",
+      "audio": {
+        "file": "song-quiz/hook-07.mp3",
+        "start": 0,
+        "duration": 10
+      }
+    },
+    {
+      "id": "hits-08",
+      "label": "Instrumental #08",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "The Final Countdown",
+      "explanation": "Europe",
+      "audio": {
+        "file": "song-quiz/hook-08.mp3",
+        "start": 0,
+        "duration": 10
+      }
+    },
+    {
+      "id": "hits-09",
+      "label": "Instrumental #09",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "Smoke on the Water",
+      "explanation": "Deep Purple",
+      "audio": {
+        "file": "song-quiz/hook-09.mp3",
+        "start": 0,
+        "duration": 9
+      }
+    },
+    {
+      "id": "hits-10",
+      "label": "Instrumental #10",
+      "prompt": "Name the song from this instrumental clip.",
+      "answer": "Megalovania",
+      "explanation": "Toby Fox. Accept “the Sans fight theme” if you are allowing descriptions.",
+      "audio": {
+        "file": "song-quiz/hook-10.mp3",
+        "start": 0,
+        "duration": 10
+      }
+    }
+  ],
+  "jeopardy": {
+    "values": [],
+    "categories": []
+  },
+  "pictureBuzz": []
+}

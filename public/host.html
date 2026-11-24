@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TriviaShrimp · Host</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/socket.io/socket.io.js" defer></script>
+  <script src="/common.js" defer></script>
+  <script src="/host.js" defer></script>
+</head>
+<body class="host-page">
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark" aria-hidden="true">🦐</span><span class="brand-wordmark">Trivia<span>Shrimp</span></span></div>
+    <div class="top-actions"><span class="view-label">Host console</span><span class="connection" data-connection role="status">Connecting</span></div>
+  </header>
+  <main class="host-wrap">
+    <div class="host-heading">
+      <div><p class="eyebrow"><span class="signal"></span> LIVE GAME CONTROL</p><h1>Host console<span class="accent">.</span></h1></div>
+      <a id="tv-link" class="button secondary" target="_blank" rel="noopener" hidden>Open TV screen <span aria-hidden="true">↗</span></a>
+    </div>
+    <p class="notice error" id="host-error" role="alert" hidden></p>
+    <div class="host-layout">
+      <div class="host-main">
+        <section id="setup" class="panel host-setup">
+          <p class="eyebrow">ROOM SETUP</p>
+          <h2>Get the room ready</h2>
+          <p>Open the room, put the TV screen up, and let everyone scan in.</p>
+          <button id="create" class="button primary" disabled>Create room <span aria-hidden="true">→</span></button>
+        </section>
+        <div id="game-controls" hidden>
+          <div class="mode-tabs" id="modes" aria-label="Game mode"></div>
+          <section class="panel host-round" id="host-round" aria-label="Current round"></section>
+          <section class="panel pack-panel">
+            <div class="section-heading">
+              <h2 id="pack-title">Question pack</h2>
+              <div class="pack-tools">
+                <select id="pack-topic" aria-label="Filter questions by topic" hidden></select>
+                <span id="pack-count" class="muted"></span>
+              </div>
+            </div>
+            <div id="questions"></div>
+          </section>
+        </div>
+      </div>
+      <aside class="host-aside">
+        <section id="join-settings" class="panel join-settings" hidden>
+          <div class="section-heading"><h2>Join address</h2><span id="join-type" class="pill"></span></div>
+          <a class="address" id="join-address" target="_blank" rel="noopener"></a>
+          <details>
+            <summary>Change join address</summary>
+            <form id="join-form">
+              <label for="public-origin">Public join URL</label>
+              <input id="public-origin" name="origin" type="url" placeholder="https://example.trycloudflare.com">
+              <div class="button-row"><button class="button primary small" type="submit">Use URL</button><button class="button secondary small" id="use-lan" type="button">Use local Wi-Fi</button></div>
+            </form>
+          </details>
+        </section>
+        <section class="panel roster-panel">
+          <div class="section-heading"><h2>Scoreboard</h2><span id="host-count" class="pill">0 players</span></div>
+          <div id="host-roster"><p class="muted">Players will appear here when they join.</p></div>
+          <form id="score-form" hidden>
+            <label for="score-player">Adjust score</label>
+            <div class="score-fields"><select id="score-player" aria-label="Player"></select><input id="score-delta" type="number" step="1" min="-10000" max="10000" placeholder="+100" aria-label="Points to add or subtract" required><button class="button secondary small" type="submit">Apply</button></div>
+          </form>
+        </section>
+      </aside>
+    </div>
+  </main>
+</body>
+</html>

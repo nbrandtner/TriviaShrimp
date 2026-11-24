@@ -1,0 +1,20 @@
+{
+  "name": "triviashrimp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local multiplayer trivia game for one shared screen",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.js --tunnel",
+    "start:local": "node --env-file-if-exists=.env server.js --local",
+    "test": "node --test",
+    "check:questions": "node --env-file-if-exists=.env questions.js"
+  },
+  "engines": { "node": ">=22.9.0" },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.8.1"
+  }
+}
